@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JuiceJunction.ServiceRegistry/JuiceJunction.ServiceRegistry.iml" filepath="$PROJECT_DIR$/JuiceJunction.ServiceRegistry/JuiceJunction.ServiceRegistry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/authentication/api-gateway.iml" filepath="$PROJECT_DIR$/authentication/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apiGateway/apiGateway/apiGateway.iml" filepath="$PROJECT_DIR$/apiGateway/apiGateway/apiGateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrderManagement/inventory-managment/inventory-managment.iml" filepath="$PROJECT_DIR$/OrderManagement/inventory-managment/inventory-managment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/juice-junction-backend.iml" filepath="$PROJECT_DIR$/.idea/juice-junction-backend.iml" />
+    </modules>
+  </component>
+</project>
